@@ -24,35 +24,6 @@ VisionSearch is a premium visual retail search engine that extracts high-dimensi
 
 ---
 
-## 📦 Installation & Setup
-
-### Prerequisites
-Make sure you have Python 3.10+ installed on your system. Using the `uv` package manager is highly recommended for speed and convenience.
-
-### 1. Clone & Navigate to Project
-```powershell
-cd "C:\Users\vanda\.gemini\antigravity\scratch\visionsearch_ai"
-```
-
-### 2. Install Dependencies
-```powershell
-uv pip install -r requirements.txt
-```
-
-### 3. Run the Server
-```powershell
-uv run python app.py
-```
-*(On startup, the system will verify the index, generate 24 augmented noisy variants for the base catalog items to build a 325-product index, and warm up the PCA projections cache).*
-
-### 4. Access the App
-Open your web browser and navigate to:
-```http
-http://127.0.0.1:5000
-```
-
----
-
 ## 📐 Architecture Diagram
 
 ```
