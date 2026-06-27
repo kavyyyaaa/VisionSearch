@@ -1,0 +1,2602 @@
+{
+    "sneakers_red": {
+        "id": "sneakers_red",
+        "name": "Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$89.99",
+        "description": "High-performance running sneakers featuring a crimson red breathable mesh upper and a responsive cushioned sole.",
+        "image": "sneakers_red.png"
+    },
+    "leather_jacket_black": {
+        "id": "leather_jacket_black",
+        "name": "Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$189.50",
+        "description": "Timeless motorcycle jacket crafted from genuine black leather, detailed with silver metal zippers and epaulets.",
+        "image": "leather_jacket_black.png"
+    },
+    "denim_jeans_blue": {
+        "id": "denim_jeans_blue",
+        "name": "Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$64.99",
+        "description": "Fitted blue jeans in a classic vintage faded wash, designed for everyday comfort and styling versatility.",
+        "image": "denim_jeans_blue.png"
+    },
+    "summer_dress_white": {
+        "id": "summer_dress_white",
+        "name": "Lace Summer Dress",
+        "category": "tops",
+        "price": "$79.00",
+        "description": "Lightweight white summer dress made of soft cotton with intricate floral lace stitching, perfect for warm sunny days.",
+        "image": "summer_dress_white.png"
+    },
+    "knit_sweater_yellow": {
+        "id": "knit_sweater_yellow",
+        "name": "Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$55.00",
+        "description": "Cozy mustard yellow sweater in a chunky cable knit, designed for a relaxed fit and ultimate warmth.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "boots_leather_brown": {
+        "id": "boots_leather_brown",
+        "name": "Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$120.00",
+        "description": "Durable brown leather boots with a padded ankle collar, reinforced eyelets, and a high-traction rubber outsole.",
+        "image": "boots_leather_brown.png"
+    },
+    "backpack_canvas_green": {
+        "id": "backpack_canvas_green",
+        "name": "Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$48.99",
+        "description": "Spacious olive green backpack made of heavy-duty canvas, finished with leather buckled straps and magnetic snaps.",
+        "image": "backpack_canvas_green.png"
+    },
+    "wool_coat_black": {
+        "id": "wool_coat_black",
+        "name": "Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$210.00",
+        "description": "Elegant winter coat tailored in double-breasted black wool blend, with wide lapels and deep side pockets.",
+        "image": "wool_coat_black.png"
+    },
+    "floral_skirt_pink": {
+        "id": "floral_skirt_pink",
+        "name": "Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$45.00",
+        "description": "Flowy pastel pink midi skirt adorned with soft white floral patterns and an elasticized waist for easy wear.",
+        "image": "floral_skirt_pink.png"
+    },
+    "wristwatch_silver": {
+        "id": "wristwatch_silver",
+        "name": "Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$150.00",
+        "description": "Sophisticated luxury timepiece with a brushed silver stainless steel strap, a sleek black dial, and water resistance.",
+        "image": "wristwatch_silver.png"
+    },
+    "trench_coat_beige": {
+        "id": "trench_coat_beige",
+        "name": "Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$165.00",
+        "description": "Stylish beige double-breasted trench coat featuring storm flaps, a waist belt, and a water-repellent finish.",
+        "image": "trench_coat_beige.png"
+    },
+    "running_shoes_blue": {
+        "id": "running_shoes_blue",
+        "name": "Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$95.00",
+        "description": "Ultralight running shoes in vibrant cobalt blue, detailed with neon green accent streaks and a flexible outsole.",
+        "image": "running_shoes_blue.png"
+    },
+    "volt_green_runner": {
+        "id": "volt_green_runner",
+        "name": "Volt Green Runner",
+        "category": "shoes",
+        "price": "$99.00",
+        "description": "High visual contrast neon runner featuring lightweight styling.",
+        "image": "volt_green_runner.png"
+    },
+    "sneakers_red_v1": {
+        "id": "sneakers_red_v1",
+        "name": "Reebok Vintage Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$68.84",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v2": {
+        "id": "sneakers_red_v2",
+        "name": "H&M Retro Edition Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$79.54",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v3": {
+        "id": "sneakers_red_v3",
+        "name": "Armani Vintage Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$104.03",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v4": {
+        "id": "sneakers_red_v4",
+        "name": "Gucci Vintage Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$99.38",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v5": {
+        "id": "sneakers_red_v5",
+        "name": "Nike Classic Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$72.55",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v6": {
+        "id": "sneakers_red_v6",
+        "name": "Zara Casual Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$100.0",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v7": {
+        "id": "sneakers_red_v7",
+        "name": "Gucci Retro Edition Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$106.15",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v8": {
+        "id": "sneakers_red_v8",
+        "name": "Armani Casual Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$90.14",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v9": {
+        "id": "sneakers_red_v9",
+        "name": "Oakley Elite Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$82.51",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v10": {
+        "id": "sneakers_red_v10",
+        "name": "Nike Modern Fit Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$105.19",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v11": {
+        "id": "sneakers_red_v11",
+        "name": "Levi's Activewear Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$75.89",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v12": {
+        "id": "sneakers_red_v12",
+        "name": "Levi's Vintage Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$72.5",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v13": {
+        "id": "sneakers_red_v13",
+        "name": "Adidas Signature Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$113.25",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v14": {
+        "id": "sneakers_red_v14",
+        "name": "Prada Activewear Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$111.07",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v15": {
+        "id": "sneakers_red_v15",
+        "name": "Armani Urban Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$96.45",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v16": {
+        "id": "sneakers_red_v16",
+        "name": "Fossil Vintage Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$97.3",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v17": {
+        "id": "sneakers_red_v17",
+        "name": "Reebok Elite Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$115.3",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v18": {
+        "id": "sneakers_red_v18",
+        "name": "Levi's Elite Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$77.87",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v19": {
+        "id": "sneakers_red_v19",
+        "name": "Adidas Classic Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$103.2",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v20": {
+        "id": "sneakers_red_v20",
+        "name": "H&M Vintage Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$113.67",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v21": {
+        "id": "sneakers_red_v21",
+        "name": "Adidas Pro Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$82.5",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v22": {
+        "id": "sneakers_red_v22",
+        "name": "Reebok Signature Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$76.27",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v23": {
+        "id": "sneakers_red_v23",
+        "name": "Levi's Retro Edition Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$103.68",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "sneakers_red_v24": {
+        "id": "sneakers_red_v24",
+        "name": "Armani Vintage Crimson Sport Sneakers",
+        "category": "shoes",
+        "price": "$100.38",
+        "description": "Special edition variant of Crimson Sport Sneakers. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "sneakers_red.png"
+    },
+    "leather_jacket_black_v1": {
+        "id": "leather_jacket_black_v1",
+        "name": "Puma Casual Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$225.03",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v2": {
+        "id": "leather_jacket_black_v2",
+        "name": "Puma Urban Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$185.27",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v3": {
+        "id": "leather_jacket_black_v3",
+        "name": "Reebok Casual Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$167.1",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v4": {
+        "id": "leather_jacket_black_v4",
+        "name": "Levi's Classic Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$168.17",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v5": {
+        "id": "leather_jacket_black_v5",
+        "name": "Nike Signature Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$187.74",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v6": {
+        "id": "leather_jacket_black_v6",
+        "name": "Adidas Retro Edition Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$245.95",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v7": {
+        "id": "leather_jacket_black_v7",
+        "name": "Prada Signature Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$166.3",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v8": {
+        "id": "leather_jacket_black_v8",
+        "name": "Oakley Pro Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$242.71",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v9": {
+        "id": "leather_jacket_black_v9",
+        "name": "Reebok Urban Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$158.37",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v10": {
+        "id": "leather_jacket_black_v10",
+        "name": "Puma Retro Edition Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$226.83",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v11": {
+        "id": "leather_jacket_black_v11",
+        "name": "Gucci Activewear Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$227.06",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v12": {
+        "id": "leather_jacket_black_v12",
+        "name": "Fossil Elite Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$187.54",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v13": {
+        "id": "leather_jacket_black_v13",
+        "name": "Zara Modern Fit Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$200.06",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v14": {
+        "id": "leather_jacket_black_v14",
+        "name": "Adidas Classic Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$240.03",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v15": {
+        "id": "leather_jacket_black_v15",
+        "name": "Puma Modern Fit Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$232.18",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v16": {
+        "id": "leather_jacket_black_v16",
+        "name": "Fossil Elite Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$149.35",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v17": {
+        "id": "leather_jacket_black_v17",
+        "name": "Fossil Elite Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$255.38",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v18": {
+        "id": "leather_jacket_black_v18",
+        "name": "Gucci Activewear Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$252.54",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v19": {
+        "id": "leather_jacket_black_v19",
+        "name": "Nike Vintage Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$219.64",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v20": {
+        "id": "leather_jacket_black_v20",
+        "name": "Gucci Activewear Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$229.51",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v21": {
+        "id": "leather_jacket_black_v21",
+        "name": "Levi's Vintage Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$175.5",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v22": {
+        "id": "leather_jacket_black_v22",
+        "name": "Puma Urban Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$142.49",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v23": {
+        "id": "leather_jacket_black_v23",
+        "name": "Armani Activewear Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$252.63",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "leather_jacket_black_v24": {
+        "id": "leather_jacket_black_v24",
+        "name": "Puma Casual Classic Rider Leather Jacket",
+        "category": "tops",
+        "price": "$245.89",
+        "description": "Special edition variant of Classic Rider Leather Jacket. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "leather_jacket_black.png"
+    },
+    "denim_jeans_blue_v1": {
+        "id": "denim_jeans_blue_v1",
+        "name": "Reebok Activewear Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$81.56",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v2": {
+        "id": "denim_jeans_blue_v2",
+        "name": "Gucci Elite Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$56.5",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v3": {
+        "id": "denim_jeans_blue_v3",
+        "name": "Levi's Modern Fit Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$69.78",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v4": {
+        "id": "denim_jeans_blue_v4",
+        "name": "Gucci Classic Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$72.1",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v5": {
+        "id": "denim_jeans_blue_v5",
+        "name": "Oakley Classic Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$53.1",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v6": {
+        "id": "denim_jeans_blue_v6",
+        "name": "Levi's Activewear Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$58.08",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v7": {
+        "id": "denim_jeans_blue_v7",
+        "name": "Zara Elite Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$85.67",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v8": {
+        "id": "denim_jeans_blue_v8",
+        "name": "Adidas Urban Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$80.56",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v9": {
+        "id": "denim_jeans_blue_v9",
+        "name": "Gucci Modern Fit Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$53.75",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v10": {
+        "id": "denim_jeans_blue_v10",
+        "name": "Oakley Casual Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$55.18",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v11": {
+        "id": "denim_jeans_blue_v11",
+        "name": "Gucci Elite Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$65.24",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v12": {
+        "id": "denim_jeans_blue_v12",
+        "name": "Zara Casual Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$78.19",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v13": {
+        "id": "denim_jeans_blue_v13",
+        "name": "Armani Retro Edition Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$76.54",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v14": {
+        "id": "denim_jeans_blue_v14",
+        "name": "Fossil Signature Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$65.83",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v15": {
+        "id": "denim_jeans_blue_v15",
+        "name": "Gucci Urban Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$53.46",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v16": {
+        "id": "denim_jeans_blue_v16",
+        "name": "Zara Vintage Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$61.93",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v17": {
+        "id": "denim_jeans_blue_v17",
+        "name": "Prada Casual Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$57.72",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v18": {
+        "id": "denim_jeans_blue_v18",
+        "name": "Zara Classic Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$51.51",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v19": {
+        "id": "denim_jeans_blue_v19",
+        "name": "Reebok Classic Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$57.67",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v20": {
+        "id": "denim_jeans_blue_v20",
+        "name": "Nike Signature Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$51.51",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v21": {
+        "id": "denim_jeans_blue_v21",
+        "name": "Zara Activewear Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$74.83",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v22": {
+        "id": "denim_jeans_blue_v22",
+        "name": "Zara Casual Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$53.9",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v23": {
+        "id": "denim_jeans_blue_v23",
+        "name": "Prada Elite Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$67.17",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "denim_jeans_blue_v24": {
+        "id": "denim_jeans_blue_v24",
+        "name": "Oakley Pro Vintage Wash Denim Jeans",
+        "category": "bottoms",
+        "price": "$56.17",
+        "description": "Special edition variant of Vintage Wash Denim Jeans. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "denim_jeans_blue.png"
+    },
+    "summer_dress_white_v1": {
+        "id": "summer_dress_white_v1",
+        "name": "Adidas Pro Lace Summer Dress",
+        "category": "tops",
+        "price": "$76.04",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v2": {
+        "id": "summer_dress_white_v2",
+        "name": "Fossil Urban Lace Summer Dress",
+        "category": "tops",
+        "price": "$100.2",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v3": {
+        "id": "summer_dress_white_v3",
+        "name": "Nike Vintage Lace Summer Dress",
+        "category": "tops",
+        "price": "$62.12",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v4": {
+        "id": "summer_dress_white_v4",
+        "name": "Armani Signature Lace Summer Dress",
+        "category": "tops",
+        "price": "$97.2",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v5": {
+        "id": "summer_dress_white_v5",
+        "name": "Adidas Retro Edition Lace Summer Dress",
+        "category": "tops",
+        "price": "$68.33",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v6": {
+        "id": "summer_dress_white_v6",
+        "name": "Gucci Urban Lace Summer Dress",
+        "category": "tops",
+        "price": "$65.89",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v7": {
+        "id": "summer_dress_white_v7",
+        "name": "Puma Activewear Lace Summer Dress",
+        "category": "tops",
+        "price": "$81.18",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v8": {
+        "id": "summer_dress_white_v8",
+        "name": "Adidas Urban Lace Summer Dress",
+        "category": "tops",
+        "price": "$97.55",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v9": {
+        "id": "summer_dress_white_v9",
+        "name": "Gucci Vintage Lace Summer Dress",
+        "category": "tops",
+        "price": "$61.65",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v10": {
+        "id": "summer_dress_white_v10",
+        "name": "Gucci Classic Lace Summer Dress",
+        "category": "tops",
+        "price": "$105.18",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v11": {
+        "id": "summer_dress_white_v11",
+        "name": "Zara Modern Fit Lace Summer Dress",
+        "category": "tops",
+        "price": "$78.51",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v12": {
+        "id": "summer_dress_white_v12",
+        "name": "Oakley Retro Edition Lace Summer Dress",
+        "category": "tops",
+        "price": "$100.23",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v13": {
+        "id": "summer_dress_white_v13",
+        "name": "Nike Modern Fit Lace Summer Dress",
+        "category": "tops",
+        "price": "$77.21",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v14": {
+        "id": "summer_dress_white_v14",
+        "name": "Fossil Activewear Lace Summer Dress",
+        "category": "tops",
+        "price": "$103.17",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v15": {
+        "id": "summer_dress_white_v15",
+        "name": "Oakley Activewear Lace Summer Dress",
+        "category": "tops",
+        "price": "$79.3",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v16": {
+        "id": "summer_dress_white_v16",
+        "name": "Armani Casual Lace Summer Dress",
+        "category": "tops",
+        "price": "$90.62",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v17": {
+        "id": "summer_dress_white_v17",
+        "name": "Oakley Modern Fit Lace Summer Dress",
+        "category": "tops",
+        "price": "$68.25",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v18": {
+        "id": "summer_dress_white_v18",
+        "name": "Zara Classic Lace Summer Dress",
+        "category": "tops",
+        "price": "$86.7",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v19": {
+        "id": "summer_dress_white_v19",
+        "name": "Gucci Classic Lace Summer Dress",
+        "category": "tops",
+        "price": "$94.7",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v20": {
+        "id": "summer_dress_white_v20",
+        "name": "Nike Classic Lace Summer Dress",
+        "category": "tops",
+        "price": "$86.94",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v21": {
+        "id": "summer_dress_white_v21",
+        "name": "Gucci Casual Lace Summer Dress",
+        "category": "tops",
+        "price": "$66.71",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v22": {
+        "id": "summer_dress_white_v22",
+        "name": "Gucci Vintage Lace Summer Dress",
+        "category": "tops",
+        "price": "$99.6",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v23": {
+        "id": "summer_dress_white_v23",
+        "name": "Adidas Elite Lace Summer Dress",
+        "category": "tops",
+        "price": "$62.47",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "summer_dress_white_v24": {
+        "id": "summer_dress_white_v24",
+        "name": "Zara Pro Lace Summer Dress",
+        "category": "tops",
+        "price": "$64.93",
+        "description": "Special edition variant of Lace Summer Dress. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "summer_dress_white.png"
+    },
+    "knit_sweater_yellow_v1": {
+        "id": "knit_sweater_yellow_v1",
+        "name": "Prada Retro Edition Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$60.35",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v2": {
+        "id": "knit_sweater_yellow_v2",
+        "name": "Nike Elite Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$43.96",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v3": {
+        "id": "knit_sweater_yellow_v3",
+        "name": "Reebok Elite Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$59.9",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v4": {
+        "id": "knit_sweater_yellow_v4",
+        "name": "Levi's Activewear Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$47.99",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v5": {
+        "id": "knit_sweater_yellow_v5",
+        "name": "Armani Signature Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$49.13",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v6": {
+        "id": "knit_sweater_yellow_v6",
+        "name": "Fossil Modern Fit Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$63.42",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v7": {
+        "id": "knit_sweater_yellow_v7",
+        "name": "H&M Urban Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$51.68",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v8": {
+        "id": "knit_sweater_yellow_v8",
+        "name": "Adidas Classic Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$56.37",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v9": {
+        "id": "knit_sweater_yellow_v9",
+        "name": "Prada Vintage Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$43.67",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v10": {
+        "id": "knit_sweater_yellow_v10",
+        "name": "Zara Casual Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$50.0",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v11": {
+        "id": "knit_sweater_yellow_v11",
+        "name": "Levi's Vintage Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$70.27",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v12": {
+        "id": "knit_sweater_yellow_v12",
+        "name": "Levi's Activewear Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$46.46",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v13": {
+        "id": "knit_sweater_yellow_v13",
+        "name": "Gucci Activewear Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$61.44",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v14": {
+        "id": "knit_sweater_yellow_v14",
+        "name": "Reebok Casual Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$41.51",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v15": {
+        "id": "knit_sweater_yellow_v15",
+        "name": "Gucci Activewear Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$72.0",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v16": {
+        "id": "knit_sweater_yellow_v16",
+        "name": "Adidas Modern Fit Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$49.98",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v17": {
+        "id": "knit_sweater_yellow_v17",
+        "name": "Adidas Casual Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$46.38",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v18": {
+        "id": "knit_sweater_yellow_v18",
+        "name": "H&M Elite Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$48.2",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v19": {
+        "id": "knit_sweater_yellow_v19",
+        "name": "Levi's Retro Edition Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$63.94",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v20": {
+        "id": "knit_sweater_yellow_v20",
+        "name": "H&M Casual Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$57.37",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v21": {
+        "id": "knit_sweater_yellow_v21",
+        "name": "Nike Vintage Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$62.18",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v22": {
+        "id": "knit_sweater_yellow_v22",
+        "name": "H&M Classic Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$41.37",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v23": {
+        "id": "knit_sweater_yellow_v23",
+        "name": "Puma Activewear Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$46.58",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "knit_sweater_yellow_v24": {
+        "id": "knit_sweater_yellow_v24",
+        "name": "Oakley Casual Chunky Knit Mustard Sweater",
+        "category": "tops",
+        "price": "$64.54",
+        "description": "Special edition variant of Chunky Knit Mustard Sweater. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "knit_sweater_yellow.png"
+    },
+    "boots_leather_brown_v1": {
+        "id": "boots_leather_brown_v1",
+        "name": "Gucci Classic Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$98.05",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v2": {
+        "id": "boots_leather_brown_v2",
+        "name": "Armani Modern Fit Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$129.28",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v3": {
+        "id": "boots_leather_brown_v3",
+        "name": "Levi's Elite Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$129.78",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v4": {
+        "id": "boots_leather_brown_v4",
+        "name": "Fossil Modern Fit Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$93.01",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v5": {
+        "id": "boots_leather_brown_v5",
+        "name": "Levi's Classic Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$154.72",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v6": {
+        "id": "boots_leather_brown_v6",
+        "name": "Zara Retro Edition Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$138.02",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v7": {
+        "id": "boots_leather_brown_v7",
+        "name": "Levi's Casual Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$153.66",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v8": {
+        "id": "boots_leather_brown_v8",
+        "name": "Fossil Elite Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$143.96",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v9": {
+        "id": "boots_leather_brown_v9",
+        "name": "Zara Modern Fit Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$160.29",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v10": {
+        "id": "boots_leather_brown_v10",
+        "name": "Puma Pro Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$91.78",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v11": {
+        "id": "boots_leather_brown_v11",
+        "name": "Armani Signature Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$146.33",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v12": {
+        "id": "boots_leather_brown_v12",
+        "name": "Fossil Retro Edition Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$109.21",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v13": {
+        "id": "boots_leather_brown_v13",
+        "name": "Armani Vintage Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$117.54",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v14": {
+        "id": "boots_leather_brown_v14",
+        "name": "Nike Urban Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$106.02",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v15": {
+        "id": "boots_leather_brown_v15",
+        "name": "Oakley Signature Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$111.97",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v16": {
+        "id": "boots_leather_brown_v16",
+        "name": "Zara Retro Edition Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$91.7",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v17": {
+        "id": "boots_leather_brown_v17",
+        "name": "Zara Pro Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$113.63",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v18": {
+        "id": "boots_leather_brown_v18",
+        "name": "Adidas Activewear Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$115.28",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v19": {
+        "id": "boots_leather_brown_v19",
+        "name": "Gucci Pro Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$138.93",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v20": {
+        "id": "boots_leather_brown_v20",
+        "name": "Gucci Signature Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$157.63",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v21": {
+        "id": "boots_leather_brown_v21",
+        "name": "Adidas Activewear Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$102.86",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v22": {
+        "id": "boots_leather_brown_v22",
+        "name": "H&M Classic Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$97.8",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v23": {
+        "id": "boots_leather_brown_v23",
+        "name": "Fossil Signature Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$142.46",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "boots_leather_brown_v24": {
+        "id": "boots_leather_brown_v24",
+        "name": "Levi's Pro Rugged Terrain Leather Boots",
+        "category": "shoes",
+        "price": "$133.65",
+        "description": "Special edition variant of Rugged Terrain Leather Boots. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "boots_leather_brown.png"
+    },
+    "backpack_canvas_green_v1": {
+        "id": "backpack_canvas_green_v1",
+        "name": "Gucci Vintage Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$48.06",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v2": {
+        "id": "backpack_canvas_green_v2",
+        "name": "Prada Retro Edition Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$44.23",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v3": {
+        "id": "backpack_canvas_green_v3",
+        "name": "Armani Pro Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$36.79",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v4": {
+        "id": "backpack_canvas_green_v4",
+        "name": "Gucci Retro Edition Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$47.45",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v5": {
+        "id": "backpack_canvas_green_v5",
+        "name": "Adidas Signature Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$55.06",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v6": {
+        "id": "backpack_canvas_green_v6",
+        "name": "Reebok Vintage Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$57.9",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v7": {
+        "id": "backpack_canvas_green_v7",
+        "name": "H&M Casual Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$45.83",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v8": {
+        "id": "backpack_canvas_green_v8",
+        "name": "Fossil Signature Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$48.57",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v9": {
+        "id": "backpack_canvas_green_v9",
+        "name": "H&M Casual Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$40.48",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v10": {
+        "id": "backpack_canvas_green_v10",
+        "name": "Fossil Pro Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$56.65",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v11": {
+        "id": "backpack_canvas_green_v11",
+        "name": "Puma Elite Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$53.47",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v12": {
+        "id": "backpack_canvas_green_v12",
+        "name": "Fossil Casual Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$61.25",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v13": {
+        "id": "backpack_canvas_green_v13",
+        "name": "H&M Activewear Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$42.92",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v14": {
+        "id": "backpack_canvas_green_v14",
+        "name": "Prada Elite Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$55.99",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v15": {
+        "id": "backpack_canvas_green_v15",
+        "name": "Oakley Urban Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$49.74",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v16": {
+        "id": "backpack_canvas_green_v16",
+        "name": "Zara Casual Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$50.65",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v17": {
+        "id": "backpack_canvas_green_v17",
+        "name": "Armani Modern Fit Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$56.11",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v18": {
+        "id": "backpack_canvas_green_v18",
+        "name": "H&M Casual Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$56.26",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v19": {
+        "id": "backpack_canvas_green_v19",
+        "name": "Prada Signature Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$39.49",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v20": {
+        "id": "backpack_canvas_green_v20",
+        "name": "Zara Activewear Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$43.35",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v21": {
+        "id": "backpack_canvas_green_v21",
+        "name": "Zara Modern Fit Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$37.46",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v22": {
+        "id": "backpack_canvas_green_v22",
+        "name": "Zara Urban Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$54.71",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v23": {
+        "id": "backpack_canvas_green_v23",
+        "name": "Adidas Urban Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$48.92",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "backpack_canvas_green_v24": {
+        "id": "backpack_canvas_green_v24",
+        "name": "Reebok Elite Vintage Green Canvas Backpack",
+        "category": "accessories",
+        "price": "$42.46",
+        "description": "Special edition variant of Vintage Green Canvas Backpack. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "backpack_canvas_green.png"
+    },
+    "wool_coat_black_v1": {
+        "id": "wool_coat_black_v1",
+        "name": "Armani Pro Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$219.79",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v2": {
+        "id": "wool_coat_black_v2",
+        "name": "Zara Modern Fit Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$240.16",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v3": {
+        "id": "wool_coat_black_v3",
+        "name": "Nike Vintage Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$255.58",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v4": {
+        "id": "wool_coat_black_v4",
+        "name": "Zara Modern Fit Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$258.82",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v5": {
+        "id": "wool_coat_black_v5",
+        "name": "Armani Casual Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$216.03",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v6": {
+        "id": "wool_coat_black_v6",
+        "name": "Gucci Retro Edition Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$273.1",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v7": {
+        "id": "wool_coat_black_v7",
+        "name": "Adidas Urban Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$174.3",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v8": {
+        "id": "wool_coat_black_v8",
+        "name": "Oakley Casual Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$281.97",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v9": {
+        "id": "wool_coat_black_v9",
+        "name": "Prada Signature Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$277.2",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v10": {
+        "id": "wool_coat_black_v10",
+        "name": "Oakley Elite Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$260.19",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v11": {
+        "id": "wool_coat_black_v11",
+        "name": "Gucci Pro Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$262.15",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v12": {
+        "id": "wool_coat_black_v12",
+        "name": "Gucci Urban Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$270.55",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v13": {
+        "id": "wool_coat_black_v13",
+        "name": "Armani Urban Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$214.21",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v14": {
+        "id": "wool_coat_black_v14",
+        "name": "Zara Activewear Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$253.99",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v15": {
+        "id": "wool_coat_black_v15",
+        "name": "Gucci Urban Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$236.47",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v16": {
+        "id": "wool_coat_black_v16",
+        "name": "H&M Urban Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$167.26",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v17": {
+        "id": "wool_coat_black_v17",
+        "name": "H&M Retro Edition Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$191.74",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v18": {
+        "id": "wool_coat_black_v18",
+        "name": "Levi's Casual Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$167.65",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v19": {
+        "id": "wool_coat_black_v19",
+        "name": "Puma Retro Edition Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$205.76",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v20": {
+        "id": "wool_coat_black_v20",
+        "name": "Puma Retro Edition Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$165.59",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v21": {
+        "id": "wool_coat_black_v21",
+        "name": "Fossil Signature Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$225.87",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v22": {
+        "id": "wool_coat_black_v22",
+        "name": "Fossil Classic Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$183.56",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v23": {
+        "id": "wool_coat_black_v23",
+        "name": "Fossil Pro Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$271.51",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "wool_coat_black_v24": {
+        "id": "wool_coat_black_v24",
+        "name": "Prada Classic Double-Breasted Wool Coat",
+        "category": "tops",
+        "price": "$265.45",
+        "description": "Special edition variant of Double-Breasted Wool Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wool_coat_black.png"
+    },
+    "floral_skirt_pink_v1": {
+        "id": "floral_skirt_pink_v1",
+        "name": "Prada Pro Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$46.63",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v2": {
+        "id": "floral_skirt_pink_v2",
+        "name": "Levi's Activewear Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$54.09",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v3": {
+        "id": "floral_skirt_pink_v3",
+        "name": "Fossil Casual Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$53.93",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v4": {
+        "id": "floral_skirt_pink_v4",
+        "name": "Gucci Elite Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$57.99",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v5": {
+        "id": "floral_skirt_pink_v5",
+        "name": "Oakley Retro Edition Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$41.12",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v6": {
+        "id": "floral_skirt_pink_v6",
+        "name": "Oakley Classic Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$44.25",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v7": {
+        "id": "floral_skirt_pink_v7",
+        "name": "Reebok Pro Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$53.3",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v8": {
+        "id": "floral_skirt_pink_v8",
+        "name": "Oakley Modern Fit Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$60.23",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v9": {
+        "id": "floral_skirt_pink_v9",
+        "name": "Gucci Classic Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$58.24",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v10": {
+        "id": "floral_skirt_pink_v10",
+        "name": "Prada Elite Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$51.65",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v11": {
+        "id": "floral_skirt_pink_v11",
+        "name": "Adidas Pro Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$37.41",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v12": {
+        "id": "floral_skirt_pink_v12",
+        "name": "Oakley Modern Fit Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$35.11",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v13": {
+        "id": "floral_skirt_pink_v13",
+        "name": "Fossil Signature Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$39.46",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v14": {
+        "id": "floral_skirt_pink_v14",
+        "name": "Levi's Signature Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$54.3",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v15": {
+        "id": "floral_skirt_pink_v15",
+        "name": "Fossil Activewear Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$54.05",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v16": {
+        "id": "floral_skirt_pink_v16",
+        "name": "Fossil Activewear Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$56.29",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v17": {
+        "id": "floral_skirt_pink_v17",
+        "name": "Oakley Classic Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$53.97",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v18": {
+        "id": "floral_skirt_pink_v18",
+        "name": "Nike Signature Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$39.8",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v19": {
+        "id": "floral_skirt_pink_v19",
+        "name": "Adidas Classic Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$54.11",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v20": {
+        "id": "floral_skirt_pink_v20",
+        "name": "Zara Retro Edition Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$56.41",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v21": {
+        "id": "floral_skirt_pink_v21",
+        "name": "Prada Modern Fit Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$40.19",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v22": {
+        "id": "floral_skirt_pink_v22",
+        "name": "Oakley Vintage Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$48.98",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v23": {
+        "id": "floral_skirt_pink_v23",
+        "name": "Zara Urban Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$52.64",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "floral_skirt_pink_v24": {
+        "id": "floral_skirt_pink_v24",
+        "name": "Levi's Modern Fit Pastel Floral Midi Skirt",
+        "category": "bottoms",
+        "price": "$50.11",
+        "description": "Special edition variant of Pastel Floral Midi Skirt. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "floral_skirt_pink.png"
+    },
+    "wristwatch_silver_v1": {
+        "id": "wristwatch_silver_v1",
+        "name": "Armani Vintage Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$182.5",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v2": {
+        "id": "wristwatch_silver_v2",
+        "name": "Puma Activewear Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$122.23",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v3": {
+        "id": "wristwatch_silver_v3",
+        "name": "Nike Activewear Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$164.32",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v4": {
+        "id": "wristwatch_silver_v4",
+        "name": "Fossil Pro Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$197.23",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v5": {
+        "id": "wristwatch_silver_v5",
+        "name": "Zara Vintage Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$165.79",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v6": {
+        "id": "wristwatch_silver_v6",
+        "name": "Reebok Retro Edition Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$121.67",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v7": {
+        "id": "wristwatch_silver_v7",
+        "name": "H&M Elite Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$185.0",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v8": {
+        "id": "wristwatch_silver_v8",
+        "name": "Prada Classic Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$143.75",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v9": {
+        "id": "wristwatch_silver_v9",
+        "name": "Fossil Signature Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$118.71",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v10": {
+        "id": "wristwatch_silver_v10",
+        "name": "Reebok Signature Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$113.64",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v11": {
+        "id": "wristwatch_silver_v11",
+        "name": "Fossil Urban Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$122.0",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v12": {
+        "id": "wristwatch_silver_v12",
+        "name": "Levi's Urban Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$176.16",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v13": {
+        "id": "wristwatch_silver_v13",
+        "name": "Fossil Modern Fit Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$178.54",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v14": {
+        "id": "wristwatch_silver_v14",
+        "name": "Reebok Activewear Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$167.93",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v15": {
+        "id": "wristwatch_silver_v15",
+        "name": "Gucci Urban Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$154.34",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v16": {
+        "id": "wristwatch_silver_v16",
+        "name": "Armani Elite Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$136.66",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v17": {
+        "id": "wristwatch_silver_v17",
+        "name": "Zara Vintage Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$137.6",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v18": {
+        "id": "wristwatch_silver_v18",
+        "name": "Oakley Retro Edition Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$180.04",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v19": {
+        "id": "wristwatch_silver_v19",
+        "name": "Prada Elite Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$172.64",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v20": {
+        "id": "wristwatch_silver_v20",
+        "name": "Levi's Classic Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$156.99",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v21": {
+        "id": "wristwatch_silver_v21",
+        "name": "Levi's Modern Fit Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$156.38",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v22": {
+        "id": "wristwatch_silver_v22",
+        "name": "Levi's Activewear Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$143.13",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v23": {
+        "id": "wristwatch_silver_v23",
+        "name": "Prada Activewear Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$162.52",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "wristwatch_silver_v24": {
+        "id": "wristwatch_silver_v24",
+        "name": "Gucci Retro Edition Premium Chrono Silver Watch",
+        "category": "accessories",
+        "price": "$120.21",
+        "description": "Special edition variant of Premium Chrono Silver Watch. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "wristwatch_silver.png"
+    },
+    "trench_coat_beige_v1": {
+        "id": "trench_coat_beige_v1",
+        "name": "Armani Pro Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$172.12",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v2": {
+        "id": "trench_coat_beige_v2",
+        "name": "Zara Urban Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$187.69",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v3": {
+        "id": "trench_coat_beige_v3",
+        "name": "Oakley Urban Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$202.25",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v4": {
+        "id": "trench_coat_beige_v4",
+        "name": "Adidas Activewear Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$145.69",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v5": {
+        "id": "trench_coat_beige_v5",
+        "name": "Armani Retro Edition Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$154.06",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v6": {
+        "id": "trench_coat_beige_v6",
+        "name": "Prada Signature Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$170.6",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v7": {
+        "id": "trench_coat_beige_v7",
+        "name": "Gucci Signature Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$165.87",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v8": {
+        "id": "trench_coat_beige_v8",
+        "name": "Armani Casual Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$156.5",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v9": {
+        "id": "trench_coat_beige_v9",
+        "name": "Armani Urban Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$150.57",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v10": {
+        "id": "trench_coat_beige_v10",
+        "name": "H&M Retro Edition Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$135.69",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v11": {
+        "id": "trench_coat_beige_v11",
+        "name": "Zara Signature Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$135.59",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v12": {
+        "id": "trench_coat_beige_v12",
+        "name": "Gucci Modern Fit Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$142.71",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v13": {
+        "id": "trench_coat_beige_v13",
+        "name": "Armani Urban Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$151.12",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v14": {
+        "id": "trench_coat_beige_v14",
+        "name": "Prada Casual Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$182.83",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v15": {
+        "id": "trench_coat_beige_v15",
+        "name": "Adidas Retro Edition Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$153.08",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v16": {
+        "id": "trench_coat_beige_v16",
+        "name": "Levi's Modern Fit Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$153.67",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v17": {
+        "id": "trench_coat_beige_v17",
+        "name": "Armani Casual Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$136.28",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v18": {
+        "id": "trench_coat_beige_v18",
+        "name": "Nike Classic Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$178.53",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v19": {
+        "id": "trench_coat_beige_v19",
+        "name": "Armani Modern Fit Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$186.9",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v20": {
+        "id": "trench_coat_beige_v20",
+        "name": "Oakley Vintage Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$210.15",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v21": {
+        "id": "trench_coat_beige_v21",
+        "name": "Prada Activewear Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$170.22",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v22": {
+        "id": "trench_coat_beige_v22",
+        "name": "Oakley Signature Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$142.0",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v23": {
+        "id": "trench_coat_beige_v23",
+        "name": "Nike Activewear Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$216.92",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "trench_coat_beige_v24": {
+        "id": "trench_coat_beige_v24",
+        "name": "Oakley Vintage Classic Beige Trench Coat",
+        "category": "tops",
+        "price": "$205.14",
+        "description": "Special edition variant of Classic Beige Trench Coat. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "trench_coat_beige.png"
+    },
+    "running_shoes_blue_v1": {
+        "id": "running_shoes_blue_v1",
+        "name": "Fossil Urban Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$75.47",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v2": {
+        "id": "running_shoes_blue_v2",
+        "name": "Reebok Classic Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$79.9",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v3": {
+        "id": "running_shoes_blue_v3",
+        "name": "Prada Activewear Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$76.11",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v4": {
+        "id": "running_shoes_blue_v4",
+        "name": "Zara Vintage Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$103.06",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v5": {
+        "id": "running_shoes_blue_v5",
+        "name": "Fossil Elite Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$105.23",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v6": {
+        "id": "running_shoes_blue_v6",
+        "name": "Prada Retro Edition Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$115.46",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v7": {
+        "id": "running_shoes_blue_v7",
+        "name": "Fossil Urban Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$123.03",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v8": {
+        "id": "running_shoes_blue_v8",
+        "name": "H&M Elite Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$127.68",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v9": {
+        "id": "running_shoes_blue_v9",
+        "name": "H&M Elite Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$106.65",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v10": {
+        "id": "running_shoes_blue_v10",
+        "name": "Prada Vintage Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$125.26",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v11": {
+        "id": "running_shoes_blue_v11",
+        "name": "Zara Retro Edition Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$86.33",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v12": {
+        "id": "running_shoes_blue_v12",
+        "name": "Adidas Modern Fit Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$84.92",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v13": {
+        "id": "running_shoes_blue_v13",
+        "name": "Gucci Vintage Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$80.17",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v14": {
+        "id": "running_shoes_blue_v14",
+        "name": "Fossil Urban Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$110.54",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v15": {
+        "id": "running_shoes_blue_v15",
+        "name": "Oakley Activewear Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$73.11",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v16": {
+        "id": "running_shoes_blue_v16",
+        "name": "H&M Activewear Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$111.32",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v17": {
+        "id": "running_shoes_blue_v17",
+        "name": "Oakley Vintage Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$110.43",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v18": {
+        "id": "running_shoes_blue_v18",
+        "name": "H&M Elite Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$108.94",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v19": {
+        "id": "running_shoes_blue_v19",
+        "name": "Zara Pro Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$77.79",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v20": {
+        "id": "running_shoes_blue_v20",
+        "name": "Zara Modern Fit Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$123.03",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v21": {
+        "id": "running_shoes_blue_v21",
+        "name": "Puma Vintage Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$74.65",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v22": {
+        "id": "running_shoes_blue_v22",
+        "name": "H&M Elite Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$113.94",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v23": {
+        "id": "running_shoes_blue_v23",
+        "name": "Prada Activewear Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$96.28",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "running_shoes_blue_v24": {
+        "id": "running_shoes_blue_v24",
+        "name": "Oakley Activewear Neon Streak Running Shoes",
+        "category": "shoes",
+        "price": "$111.13",
+        "description": "Special edition variant of Neon Streak Running Shoes. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "running_shoes_blue.png"
+    },
+    "volt_green_runner_v1": {
+        "id": "volt_green_runner_v1",
+        "name": "H&M Casual Volt Green Runner",
+        "category": "shoes",
+        "price": "$106.32",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v2": {
+        "id": "volt_green_runner_v2",
+        "name": "Oakley Vintage Volt Green Runner",
+        "category": "shoes",
+        "price": "$109.77",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v3": {
+        "id": "volt_green_runner_v3",
+        "name": "Fossil Signature Volt Green Runner",
+        "category": "shoes",
+        "price": "$110.11",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v4": {
+        "id": "volt_green_runner_v4",
+        "name": "Nike Vintage Volt Green Runner",
+        "category": "shoes",
+        "price": "$87.85",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v5": {
+        "id": "volt_green_runner_v5",
+        "name": "Reebok Elite Volt Green Runner",
+        "category": "shoes",
+        "price": "$109.13",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v6": {
+        "id": "volt_green_runner_v6",
+        "name": "Nike Activewear Volt Green Runner",
+        "category": "shoes",
+        "price": "$108.48",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v7": {
+        "id": "volt_green_runner_v7",
+        "name": "Puma Urban Volt Green Runner",
+        "category": "shoes",
+        "price": "$105.08",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v8": {
+        "id": "volt_green_runner_v8",
+        "name": "Oakley Activewear Volt Green Runner",
+        "category": "shoes",
+        "price": "$85.03",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v9": {
+        "id": "volt_green_runner_v9",
+        "name": "Prada Pro Volt Green Runner",
+        "category": "shoes",
+        "price": "$111.96",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v10": {
+        "id": "volt_green_runner_v10",
+        "name": "Oakley Vintage Volt Green Runner",
+        "category": "shoes",
+        "price": "$102.17",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v11": {
+        "id": "volt_green_runner_v11",
+        "name": "Fossil Signature Volt Green Runner",
+        "category": "shoes",
+        "price": "$93.32",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v12": {
+        "id": "volt_green_runner_v12",
+        "name": "Adidas Modern Fit Volt Green Runner",
+        "category": "shoes",
+        "price": "$93.84",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v13": {
+        "id": "volt_green_runner_v13",
+        "name": "Armani Urban Volt Green Runner",
+        "category": "shoes",
+        "price": "$91.37",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v14": {
+        "id": "volt_green_runner_v14",
+        "name": "Fossil Casual Volt Green Runner",
+        "category": "shoes",
+        "price": "$76.43",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v15": {
+        "id": "volt_green_runner_v15",
+        "name": "Adidas Signature Volt Green Runner",
+        "category": "shoes",
+        "price": "$89.24",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v16": {
+        "id": "volt_green_runner_v16",
+        "name": "Adidas Pro Volt Green Runner",
+        "category": "shoes",
+        "price": "$125.63",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v17": {
+        "id": "volt_green_runner_v17",
+        "name": "Nike Casual Volt Green Runner",
+        "category": "shoes",
+        "price": "$101.69",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v18": {
+        "id": "volt_green_runner_v18",
+        "name": "Nike Retro Edition Volt Green Runner",
+        "category": "shoes",
+        "price": "$105.05",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v19": {
+        "id": "volt_green_runner_v19",
+        "name": "Prada Urban Volt Green Runner",
+        "category": "shoes",
+        "price": "$111.4",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v20": {
+        "id": "volt_green_runner_v20",
+        "name": "Nike Retro Edition Volt Green Runner",
+        "category": "shoes",
+        "price": "$90.11",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v21": {
+        "id": "volt_green_runner_v21",
+        "name": "Puma Activewear Volt Green Runner",
+        "category": "shoes",
+        "price": "$100.27",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v22": {
+        "id": "volt_green_runner_v22",
+        "name": "Armani Urban Volt Green Runner",
+        "category": "shoes",
+        "price": "$81.46",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v23": {
+        "id": "volt_green_runner_v23",
+        "name": "Reebok Elite Volt Green Runner",
+        "category": "shoes",
+        "price": "$121.73",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    },
+    "volt_green_runner_v24": {
+        "id": "volt_green_runner_v24",
+        "name": "Armani Modern Fit Volt Green Runner",
+        "category": "shoes",
+        "price": "$92.71",
+        "description": "Special edition variant of Volt Green Runner. Designed with reinforced materials, custom styling configurations, and clean visual lines.",
+        "image": "volt_green_runner.png"
+    }
+}
