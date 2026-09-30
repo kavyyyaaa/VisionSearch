@@ -620,4 +620,8 @@ def add_product():
 if __name__ == '__main__':
     init_resnet()
     load_data()
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    import webbrowser, threading
+    print("\n[SUCCESS] Server initialized. Opening dashboard in browser...")
+    threading.Timer(1.5, lambda: webbrowser.open('http://127.0.0.1:5000')).start()
+    app.run(host='0.0.0.0', port=5000, debug=False)
+

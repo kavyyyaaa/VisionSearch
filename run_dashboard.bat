@@ -77,14 +77,14 @@ if %errorlevel% neq 0 (
     )
 )
 
-:: 4. Launch App & Browser
+:: 4. Launch App
 echo.
 echo ===================================================
-echo   Starting VisionSearch App at http://127.0.0.1:5000
+echo   Starting VisionSearch Server...
+echo   (Browser will open automatically once ready)
 echo ===================================================
 echo.
 
-start "" http://127.0.0.1:5000
 .venv\Scripts\python.exe app.py
 
 if %errorlevel% neq 0 (
