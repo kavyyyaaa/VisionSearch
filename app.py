@@ -617,11 +617,12 @@ def add_product():
             os.remove(target_path)
         return jsonify({"error": f"Failed to index product: {str(e)}"}), 500
 
+# Initialize model and database
+init_resnet()
+load_data()
+
 if __name__ == '__main__':
-    init_resnet()
-    load_data()
     import webbrowser, threading
     print("\n[SUCCESS] Server initialized. Opening dashboard in browser...")
     threading.Timer(1.5, lambda: webbrowser.open('http://127.0.0.1:5000')).start()
     app.run(host='0.0.0.0', port=5000, debug=False)
-
