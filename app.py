@@ -416,6 +416,8 @@ def search_image():
     
     try:
         # Extract features and layer4 attention activations map
+        if resnet_model is None:
+            init_resnet()
         query_feat, attention_map = extract_features_and_attention(query_path)
         feature_time = time.time() - start_time
         
@@ -632,7 +634,6 @@ def add_product():
         return jsonify({"error": f"Failed to index product: {str(e)}"}), 500
 
 # Initialize model and database
-init_resnet()
 load_data()
 
 if __name__ == '__main__':
