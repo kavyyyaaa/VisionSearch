@@ -219,17 +219,21 @@ def load_data():
         print("FAISS index not found.")
         faiss_index = None
 
-    # Warm feature cache for PCA projections
+        # Warm feature cache for PCA projections
     # Load feature vectors directly from the existing FAISS index
-     catalog_features = []
+    catalog_features = []
 
-     if faiss_index is not None and faiss_index.ntotal > 0:
-         print("Loading catalog feature vectors from FAISS index...")
-         catalog_features = [
-             faiss_index.reconstruct(i)
-             for i in range(faiss_index.ntotal)
-         ]
-         print(f"Loaded {len(catalog_features)} vectors from FAISS.")
+    if faiss_index is not None and faiss_index.ntotal > 0:
+        print("Loading catalog feature vectors from FAISS index...")
+        catalog_features = [
+            faiss_index.reconstruct(i)
+            for i in range(faiss_index.ntotal)
+        ]
+        print(f"Loaded {len(catalog_features)} vectors from FAISS.")
+
+    # Trigger database expansion if catalog is small
+    if len(product_db) < 50:
+        expand_catalog_database()
 
     # Trigger database expansion if catalog is small
     if len(product_db) < 50:
