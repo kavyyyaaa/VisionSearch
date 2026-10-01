@@ -1,16 +1,27 @@
 import os
+# Memory optimization for low-RAM deployment
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["MKL_NUM_THREADS"] = "1"
+os.environ["OPENBLAS_NUM_THREADS"] = "1"
 import json
 import base64
 import time
 import random
 import numpy as np
 import torch
+
+# Limit PyTorch CPU memory/thread usage
+torch.set_num_threads(1)
+torch.set_num_interop_threads(1)
+
 import torch.nn as nn
 import torchvision.models as models
 import torchvision.transforms as transforms
 from PIL import Image
 import faiss
 import cv2
+cv2.setNumThreads(0)
+
 from flask import Flask, request, jsonify, send_from_directory, render_template
 
 app = Flask(__name__, static_folder='static', template_folder='static')
@@ -63,7 +74,7 @@ def extract_features_and_attention(image_path):
     img = Image.open(image_path).convert('RGB')
     tensor = preprocess(img).unsqueeze(0)
     
-    with torch.no_grad():
+    with torch.inference_mode():
         # Sequential execution of ResNet layers to extract conv activations
         x = resnet_model.conv1(tensor)
         x = resnet_model.bn1(x)
