@@ -6,3 +6,4 @@ torchvision>=0.15.0
 faiss-cpu>=1.7.4
 opencv-python>=4.7.0.72
 werkzeug>=3.0.0
+gunicorn
