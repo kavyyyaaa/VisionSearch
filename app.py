@@ -220,17 +220,16 @@ def load_data():
         faiss_index = None
 
     # Warm feature cache for PCA projections
-    catalog_features = []
-    if index_mapping and product_db:
-        print("Caching catalog feature vectors for dynamic PCA projections...")
-        for pid in index_mapping:
-            prod = product_db.get(pid)
-            if prod:
-                img_path = os.path.join(IMAGES_DIR, prod["image"])
-                if os.path.exists(img_path):
-                    feat, _ = extract_features_and_attention(img_path)
-                    catalog_features.append(feat)
-        print(f"Cached {len(catalog_features)} vectors.")
+    # Load feature vectors directly from the existing FAISS index
+     catalog_features = []
+
+     if faiss_index is not None and faiss_index.ntotal > 0:
+         print("Loading catalog feature vectors from FAISS index...")
+         catalog_features = [
+             faiss_index.reconstruct(i)
+             for i in range(faiss_index.ntotal)
+         ]
+         print(f"Loaded {len(catalog_features)} vectors from FAISS.")
 
     # Trigger database expansion if catalog is small
     if len(product_db) < 50:
